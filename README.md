@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/GitHub-seshan--arunagiri-FB3640?style=for-the-badge&logo=github&logoColor=white&labelColor=000F08"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/seshan-a-82131b363">
+<a href="https://linkedin.com/in/seshan-a-82131b363">
   <img src="https://img.shields.io/badge/LinkedIn-Seshan%20A-FB3640?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000F08"/>
 </a>
 &nbsp;
@@ -45,7 +45,7 @@
 
 <!-- ANIMATED TYPING -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FB3640&center=true&vCenter=true&width=820&lines=Calm+mind%2C+clear+code.;I+don%27t+rush.+I+build.;Quiet+by+nature%2C+precise+by+practice.;Steady+progress%2C+not+noise." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=FB3640&center=true&vCenter=true&width=820&lines=Designing+systems+that+think.;Writing+code+that+ships.;Backend+%2B+AI+%3D+the+stack+I+live+in.;Building+tools+developers+actually+want.;Learning+every+day%2C+deliberately." />
 </div>
 
 <br/>
@@ -162,38 +162,28 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <br/>
 
-<div align="center">
+```
+  SESHAN A  /  Level 14  /  Backend & AI Engineer in Training
+  ════════════════════════════════════════════════════════════
 
-<h3>Level 14 &nbsp;·&nbsp; Backend &amp; AI Engineer in Training</h3>
+  XP Progress       [============--------]  62%
 
-**Overall XP — 62%**
+  MASTERED
+    [+]  Python & Java                     Core languages
+    [+]  JavaScript / TypeScript           Production-grade JS
+    [+]  React.js, Next.js & FastAPI       Modern full-stack
+    [+]  Arrays, Strings & DP             DSA fundamentals
+    [+]  Word Break I & II                 Dynamic Programming
 
-<img src="https://progress-bar.dev/62/?color=fb3640&width=400" />
+  IN PROGRESS
+    [~]  Advanced Graphs & Trees           40% complete
+    [~]  System Design Fundamentals        25% complete
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| Skill | Progress |
-|:---|:---|
-| Python & Java | <img src="https://progress-bar.dev/90/?color=fb3640&width=180" /> |
-| JavaScript / TypeScript | <img src="https://progress-bar.dev/85/?color=fb3640&width=180" /> |
-| React, Next.js & FastAPI | <img src="https://progress-bar.dev/75/?color=fb3640&width=180" /> |
-| DSA — Arrays, Strings & DP | <img src="https://progress-bar.dev/80/?color=fb3640&width=180" /> |
-| Advanced Graphs & Trees | <img src="https://progress-bar.dev/40/?color=fb3640&width=180" /> |
-| System Design Fundamentals | <img src="https://progress-bar.dev/25/?color=fb3640&width=180" /> |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Active right now:** Company assessments &nbsp;·&nbsp; Placement interviews &nbsp;·&nbsp; Final year capstone
-
-</div>
+  ACTIVE CHALLENGES
+    [!]  Company Online Assessments
+    [!]  Placement Interviews
+    [!]  Final Year Capstone Project
+```
 
 <br/>
 
@@ -208,11 +198,21 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <div align="center">
 
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=seshan-arunagiri&show_icons=true&include_all_commits=true&count_private=true&bg_color=000F08&title_color=FB3640&icon_color=FB3640&text_color=FFFFFF&border_color=FB3640&border_radius=10&hide_border=false&rank_icon=github"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshan-arunagiri&layout=compact&bg_color=000F08&title_color=FB3640&text_color=FFFFFF&border_color=FB3640&langs_count=8&border_radius=10"/>
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=seshan-arunagiri&background=000F08&ring=FB3640&fire=FB3640&currStreakLabel=FB3640&sideLabels=FFFFFF&dates=8FA89C&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=000F08&border=FB3640&border_radius=10"/>
 
 <br/><br/>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=seshan-arunagiri&bg_color=000F08&color=FB3640&line=FB3640&point=FFFFFF&area=true&area_color=400010&border_color=FB3640&radius=8&hide_border=false"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=seshan-arunagiri&theme=radical&no-frame=false&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
@@ -298,13 +298,13 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <div align="center">
 
-Strengthening core DSA — graphs, trees, and dynamic programming.
-<br/>
-Learning system design fundamentals from first principles.
-<br/>
-Wrapping up final year coursework and the capstone project.
-<br/>
-Preparing steadily for placement interviews.
+![DSA](https://img.shields.io/badge/Advanced%20DSA-Graphs%20%26%20Trees-FB3640?style=for-the-badge&labelColor=000F08)
+&nbsp;
+![System Design](https://img.shields.io/badge/System%20Design-First%20Principles-FB3640?style=for-the-badge&labelColor=000F08)
+&nbsp;
+![AI Products](https://img.shields.io/badge/AI%20Products-Shipping-FB3640?style=for-the-badge&labelColor=000F08)
+&nbsp;
+![Placements](https://img.shields.io/badge/Placements-2026%20Prep-FB3640?style=for-the-badge&labelColor=000F08)
 
 </div>
 
@@ -327,7 +327,7 @@ Preparing steadily for placement interviews.
   <img src="https://img.shields.io/badge/Write%20to%20Me-FB3640?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000F08"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/seshan-a-82131b363">
+<a href="https://linkedin.com/in/seshan-a-82131b363">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-FB3640?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000F08"/>
 </a>
 &nbsp;&nbsp;
