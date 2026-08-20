@@ -153,40 +153,6 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 ---
 
-<!-- DEVELOPER PROGRESSION -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=DEVELOPER+PROGRESSION&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
-</div>
-
-<br/>
-
-```
-  SESHAN A  /  Level 14  /  Backend & AI Engineer in Training
-  ════════════════════════════════════════════════════════════
-
-  XP Progress       [============--------]  62%
-
-  MASTERED
-    [+]  Python & Java                     Core languages
-    [+]  JavaScript / TypeScript           Production-grade JS
-    [+]  React.js, Next.js & FastAPI       Modern full-stack
-    [+]  Arrays, Strings & DP             DSA fundamentals
-    [+]  Word Break I & II                 Dynamic Programming
-
-  IN PROGRESS
-    [~]  Advanced Graphs & Trees           40% complete
-    [~]  System Design Fundamentals        25% complete
-
-  ACTIVE CHALLENGES
-    [!]  Company Online Assessments
-    [!]  Placement Interviews
-    [!]  Final Year Capstone Project
-```
-
-<br/>
-
----
-
 <!-- GITHUB ANALYTICS -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=GITHUB+ANALYTICS&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
@@ -196,21 +162,7 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=seshan-arunagiri&show_icons=true&include_all_commits=true&count_private=true&bg_color=000F08&title_color=FB3640&icon_color=FB3640&text_color=FFFFFF&border_color=FB3640&border_radius=10&hide_border=false&rank_icon=github"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshan-arunagiri&layout=compact&bg_color=000F08&title_color=FB3640&text_color=FFFFFF&border_color=FB3640&langs_count=8&border_radius=10"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=seshan-arunagiri&background=000F08&ring=FB3640&fire=FB3640&currStreakLabel=FB3640&sideLabels=FFFFFF&dates=8FA89C&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=000F08&border=FB3640&border_radius=10"/>
-
-<br/><br/>
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=seshan-arunagiri&bg_color=000F08&color=FB3640&line=FB3640&point=FFFFFF&area=true&area_color=400010&border_color=FB3640&radius=8&hide_border=false"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=seshan-arunagiri&theme=radical&no-frame=false&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
