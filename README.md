@@ -223,11 +223,11 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <div align="center">
 
-| &nbsp; | Recognition | Details |
-|:---:|:---|:---|
-| `01` | **NASSCOM FutureSkills Prime** | Generative AI Fluency — Gold Category |
-| `02` | **NPTEL Certification** | Java Programming |
-| `03` | **Foundation of Prompt Engineering** | AWS — Prompt Engineering Certification |
+| &nbsp; | Recognition | Issuer | Details |
+|:---:|:---|:---|:---|
+| `01` | **NASSCOM FutureSkills Prime** | NASSCOM | Generative AI Fluency — Gold Category |
+| `02` | **NPTEL Certification** | NPTEL / IIT | Java Programming |
+| `03` | **Foundation of Prompt Engineering** | Amazon Web Services (AWS) | Prompt Engineering Certification |
 
 </div>
 
