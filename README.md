@@ -178,17 +178,35 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 <br/>
 
 <details open>
-<summary><b>Infosys Springboard &nbsp;|&nbsp; AI / Full-Stack Intern &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; Remote, India</b></summary>
+<summary><b>Nandha Infotech &nbsp;|&nbsp; Full Stack Development Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Coimbatore, India</b></summary>
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML-000F08?style=flat-square&logo=html5&logoColor=FB3640)
+![CSS](https://img.shields.io/badge/CSS-000F08?style=flat-square&logo=css3&logoColor=FB3640)
+![JavaScript](https://img.shields.io/badge/JavaScript-000F08?style=flat-square&logo=javascript&logoColor=FB3640)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-000F08?style=flat-square&logo=stackshare&logoColor=FB3640)
+
+- Developed and improved web application modules across the full development lifecycle
+- Worked with senior developers to debug issues, implement features, and improve existing functionality
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>Infosys 6.0 Program &nbsp;|&nbsp; Machine Learning Intern &nbsp;|&nbsp; 2 Months &nbsp;|&nbsp; Project: VisionExtract</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-000F08?style=flat-square&logo=python&logoColor=FB3640)
-![AI](https://img.shields.io/badge/AI%20Tools-000F08?style=flat-square&logo=openai&logoColor=FB3640)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-000F08?style=flat-square&logo=stackshare&logoColor=FB3640)
-![Agile](https://img.shields.io/badge/Agile-000F08?style=flat-square&logo=jira&logoColor=FB3640)
+![ML](https://img.shields.io/badge/Machine%20Learning-000F08?style=flat-square&logo=tensorflow&logoColor=FB3640)
+![CV](https://img.shields.io/badge/Computer%20Vision-000F08?style=flat-square&logo=opencv&logoColor=FB3640)
+![Segmentation](https://img.shields.io/badge/Image%20Segmentation-000F08?style=flat-square&logo=imagekit&logoColor=FB3640)
 
-- Built and iterated on AI-powered and full-stack applications under production-grade engineering constraints
-- Collaborated on intelligent software solutions spanning backend integration, debugging, and workflow optimization
-- Deepened practical knowledge of scalable application architecture and Agile delivery methodologies
+*Subject Isolation using Image Segmentation*
+
+- Built an image segmentation model to isolate the main subject and remove the background
+- Prepared and augmented image-mask datasets; trained the model and evaluated with IoU and Dice score metrics
+- Built an inference pipeline and basic web interface for uploads and isolated subject outputs
 
 </details>
 
