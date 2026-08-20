@@ -200,7 +200,7 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 ![Python](https://img.shields.io/badge/Python-000F08?style=flat-square&logo=python&logoColor=FB3640)
 ![ML](https://img.shields.io/badge/Machine%20Learning-000F08?style=flat-square&logo=tensorflow&logoColor=FB3640)
 ![CV](https://img.shields.io/badge/Computer%20Vision-000F08?style=flat-square&logo=opencv&logoColor=FB3640)
-![Segmentation](https://img.shields.io/badge/Image%20Segmentation-000F08?style=flat-square&logo=imagekit&logoColor=FB3640)
+![Segmentation](https://img.shields.io/badge/Image%20Segmentation-000F08?style=flat-square&logo=numpy&logoColor=FB3640)
 
 *Subject Isolation using Image Segmentation*
 
