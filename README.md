@@ -227,8 +227,7 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 |:---:|:---|:---|
 | `01` | **NASSCOM FutureSkills Prime** | Generative AI Fluency — Gold Category |
 | `02` | **NPTEL Certification** | Java Programming |
-| `03` | **Competitive Programming** | Active on LeetCode & HackerRank — DSA focused |
-| `04` | **Open Source** | Maintains multiple AI-powered and developer-tool repositories |
+| `03` | **Foundation of Prompt Engineering** | AWS — Prompt Engineering Certification |
 
 </div>
 
@@ -250,29 +249,6 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 | **B.Tech — Information Technology** | V.S.B Engineering College, Karur, Tamil Nadu | 2023 – 2027 | **8.0 / 10 CGPA** |
 | **Higher Secondary (Class XII)** | TNPL MHSS, Kagithapuram, Tamil Nadu | — | **70%** |
 | **Secondary (Class X)** | TNPL MHSS, Kagithapuram, Tamil Nadu | — | — |
-
-</div>
-
-<br/>
-
----
-
-<!-- CURRENTLY FOCUSED ON -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=CURRENTLY+FOCUSED+ON&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-![DSA](https://img.shields.io/badge/Advanced%20DSA-Graphs%20%26%20Trees-FB3640?style=for-the-badge&labelColor=000F08)
-&nbsp;
-![System Design](https://img.shields.io/badge/System%20Design-First%20Principles-FB3640?style=for-the-badge&labelColor=000F08)
-&nbsp;
-![AI Products](https://img.shields.io/badge/AI%20Products-Shipping-FB3640?style=for-the-badge&labelColor=000F08)
-&nbsp;
-![Placements](https://img.shields.io/badge/Placements-2026%20Prep-FB3640?style=for-the-badge&labelColor=000F08)
 
 </div>
 
