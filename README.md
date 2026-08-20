@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LANGUAGES-FB3640?style=flat-square&labelColor=000F08&color=000F08"/>
+<img src="https://img.shields.io/badge/LANGUAGES-FB3640?style=flat-square&labelColor=000F08&color=000F08" alt="Languages"/>
 
 <br/>
 
