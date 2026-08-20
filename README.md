@@ -50,9 +50,9 @@
 
 ---
 
-<!-- TECH ARSENAL -->
+<!-- EXPLORED STACKS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=TECH+ARSENAL&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=EXPLORED+STACKS&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
 </div>
 
 <br/>
