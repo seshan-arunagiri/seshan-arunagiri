@@ -141,26 +141,7 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <br/>
 
----
 
-<!-- GITHUB ANALYTICS -->
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=GITHUB+ANALYTICS&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=seshan-arunagiri&show_icons=true&include_all_commits=true&count_private=true&bg_color=000F08&title_color=FB3640&icon_color=FB3640&text_color=FFFFFF&border_color=FB3640&border_radius=10&hide_border=false&rank_icon=github"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshan-arunagiri&layout=compact&bg_color=000F08&title_color=FB3640&text_color=FFFFFF&border_color=FB3640&langs_count=8&border_radius=10"/>
-
-</div>
-
-<br/>
-
----
 
 <!-- EXPERIENCE -->
 <div align="center">
@@ -208,7 +189,7 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <!-- CERTIFICATIONS & ACHIEVEMENTS -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=CERTIFICATIONS+%26+ACHIEVEMENTS&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000F08,100:180608&height=52&text=CERTIFICATIONS&fontSize=20&fontColor=FB3640&fontAlignY=68&fontAlign=50"/>
 </div>
 
 <br/>
