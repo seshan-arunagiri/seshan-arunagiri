@@ -152,7 +152,9 @@ Intelligent prompt engineering assistant that turns vague ideas into structured,
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-stats.vercel.app/api?username=seshan-arunagiri&show_icons=true&include_all_commits=true&count_private=true&bg_color=000F08&title_color=FB3640&icon_color=FB3640&text_color=FFFFFF&border_color=FB3640&border_radius=10&hide_border=false&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=seshan-arunagiri&show_icons=true&include_all_commits=true&count_private=true&bg_color=000F08&title_color=FB3640&icon_color=FB3640&text_color=FFFFFF&border_color=FB3640&border_radius=10&hide_border=false&rank_icon=github"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshan-arunagiri&layout=compact&bg_color=000F08&title_color=FB3640&text_color=FFFFFF&border_color=FB3640&langs_count=8&border_radius=10"/>
 
 </div>
 
