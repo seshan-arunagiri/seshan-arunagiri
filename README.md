@@ -1,20 +1,17 @@
-<!-- HERO -->
+<!-- HERO BANNER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000F08,40:180608,100:FB3640&height=240&section=header&text=SESHAN%20A&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder%20in%20Progress&descAlignY=62&descSize=16&descColor=FFD0D2"/>
+<img width="100%" src="assets/seshan-cinematic-banner.png" alt="Seshan A — AI Engineer | Full-Stack Developer | Builder in Progress"/>
 </div>
 
 <!-- IDENTITY -->
+<div align="center">
 <br/>
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="175" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/seshan-arunagiri/seshan-arunagiri/main/matrix-avatar.svg" width="155" alt="Matrix reveal — Seshan A"/>
-<br/><br/>
-<img src="https://img.shields.io/github/followers/seshan-arunagiri?style=flat-square&color=FB3640&labelColor=000F08&logo=github&logoColor=FB3640&label=FOLLOWERS"/>
-</td>
-<td valign="middle" style="padding-left:24px;">
 
 <h3>B.Tech — Information Technology &nbsp;|&nbsp; V.S.B Engineering College, Karur &nbsp;|&nbsp; 2023–2027</h3>
+
+<img src="https://img.shields.io/github/followers/seshan-arunagiri?style=flat-square&color=FB3640&labelColor=000F08&logo=github&logoColor=FB3640&label=FOLLOWERS"/>
+
+<br/><br/>
 
 <a href="mailto:seshan.arunagiri@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-seshan.arunagiri%40gmail.com-FB3640?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000F08"/>
@@ -31,15 +28,8 @@
 <img src="https://img.shields.io/badge/Location-Namakkal%2C%20TN-FB3640?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000F08"/>
 
 <br/><br/>
+</div>
 
-> *"Pressure is a privilege. Every challenge is a chance to rise."*
-> <br/>— Billie Jean King &nbsp;|&nbsp; Applied to code, every day.
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
